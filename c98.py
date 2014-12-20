@@ -1,9 +1,0 @@
-def f (test='Center: (2.12, -3.48); Radius: 17.22; Point: (16.21, -5)'):
-    test = test.strip().split(';')
-    center = test[0][test[0].index('(') + 1:-1]
-    center = [float(x) for x in center.split(',')]
-    radius = test[1][test[1].index(':') + 1:]
-    radius = float(radius)
-    point =  test[2][test[2].index('(') + 1:-1]
-    point =  [float(x) for x in point.split(',')]
-    return (point[0] - center[0])**2 + (point[1] - center[1])**2 <= radius**2
