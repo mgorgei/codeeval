@@ -11,12 +11,8 @@ For example:
 
 BigEndian
 '''
-
-'''import os
-os.device_encoding'''
-def f(test):
-    print(test)
-    if True:
-        print("LittleEndian")
-    else
-        print("BigEndian")
+import sys
+if sys.byteorder == 'little':
+    print("LittleEndian")
+else:
+    print("BigEndian")
