@@ -1,0 +1,675 @@
+Social issues: 10
+
+Healthcare: 7131774
+Immigration: 46247724
+Education: 89411958
+Energy independence: 91377178
+Jobs: 16364926
+Taxes: 90629011
+The environment: 17037105
+Creating jobs: 3042059
+Wealth inequality: 30335590
+Increase military spending: 90583141
+
+Mississippi
+Votes: 6 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 1
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 1
+Education: 1
+Energy independence: 3
+
+Oklahoma
+Votes: 7 
+Creating jobs: 1
+Jobs: 0
+Wealth inequality: 0
+Immigration: 1
+Taxes: 1
+The environment: 0
+Healthcare: 0
+Increase military spending: 1
+Education: 1
+Energy independence: 2
+
+Delaware
+Votes: 3 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 1
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 1
+Increase military spending: 0
+Education: 1
+Energy independence: 0
+
+Minnesota
+Votes: 10 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 1
+
+Illinois
+Votes: 19 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 4
+Taxes: 2
+The environment: 2
+Healthcare: 2
+Increase military spending: 2
+Education: 1
+Energy independence: 3
+
+Arkansas
+Votes: 6 
+Creating jobs: 1
+Jobs: 0
+Wealth inequality: 0
+Immigration: 0
+Taxes: 1
+The environment: 1
+Healthcare: 0
+Increase military spending: 1
+Education: 1
+Energy independence: 1
+
+New Mexico
+Votes: 5 
+Creating jobs: 1
+Jobs: 0
+Wealth inequality: 0
+Immigration: 1
+Taxes: 1
+The environment: 0
+Healthcare: 1
+Increase military spending: 0
+Education: 0
+Energy independence: 1
+
+Ohio
+Votes: 16 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 2
+Taxes: 2
+The environment: 1
+Healthcare: 2
+Increase military spending: 1
+Education: 1
+Energy independence: 4
+
+Indiana
+Votes: 11 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 2
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 1
+
+Maryland
+Votes: 10 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 2
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 0
+
+Louisiana
+Votes: 7 
+Creating jobs: 0
+Jobs: 1
+Wealth inequality: 1
+Immigration: 0
+Taxes: 1
+The environment: 0
+Healthcare: 1
+Increase military spending: 0
+Education: 1
+Energy independence: 2
+
+Texas
+Votes: 42 
+Creating jobs: 10
+Jobs: 2
+Wealth inequality: 4
+Immigration: 4
+Taxes: 3
+The environment: 5
+Healthcare: 3
+Increase military spending: 2
+Education: 4
+Energy independence: 5
+
+Wyoming
+Votes: 3 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+Tennessee
+Votes: 11 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 2
+
+Arizona
+Votes: 12 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 3
+
+Wisconsin
+Votes: 10 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 1
+
+Michigan
+Votes: 15 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 2
+Taxes: 1
+The environment: 2
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 4
+
+Kansas
+Votes: 6 
+Creating jobs: 1
+Jobs: 0
+Wealth inequality: 1
+Immigration: 0
+Taxes: 1
+The environment: 0
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 0
+
+Utah
+Votes: 7 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 1
+Taxes: 0
+The environment: 0
+Healthcare: 1
+Increase military spending: 1
+Education: 0
+Energy independence: 4
+
+Virginia
+Votes: 13 
+Creating jobs: 2
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 3
+
+Oregon
+Votes: 7 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 0
+Immigration: 1
+Taxes: 1
+The environment: 0
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 0
+
+Connecticut
+Votes: 7 
+Creating jobs: 0
+Jobs: 1
+Wealth inequality: 0
+Immigration: 0
+Taxes: 1
+The environment: 1
+Healthcare: 0
+Increase military spending: 1
+Education: 1
+Energy independence: 2
+
+Montana
+Votes: 3 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+California
+Votes: 55 
+Creating jobs: 8
+Jobs: 4
+Wealth inequality: 4
+Immigration: 3
+Taxes: 9
+The environment: 3
+Healthcare: 6
+Increase military spending: 6
+Education: 4
+Energy independence: 8
+
+Idaho
+Votes: 4 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 0
+Taxes: 1
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+West Virginia
+Votes: 5 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 0
+Immigration: 1
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 1
+Energy independence: 1
+
+South Carolina
+Votes: 10 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 1
+
+New Hampshire
+Votes: 4 
+Creating jobs: 0
+Jobs: 1
+Wealth inequality: 0
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+Massachusetts
+Votes: 10 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 1
+
+Vermont
+Votes: 3 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 1
+Education: 0
+Energy independence: 2
+
+Georgia
+Votes: 17 
+Creating jobs: 2
+Jobs: 1
+Wealth inequality: 3
+Immigration: 2
+Taxes: 1
+The environment: 2
+Healthcare: 2
+Increase military spending: 2
+Education: 1
+Energy independence: 1
+
+North Dakota
+Votes: 3 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 1
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 2
+
+Pennsylvania
+Votes: 19 
+Creating jobs: 2
+Jobs: 2
+Wealth inequality: 1
+Immigration: 2
+Taxes: 2
+The environment: 2
+Healthcare: 2
+Increase military spending: 2
+Education: 2
+Energy independence: 2
+
+Florida
+Votes: 31 
+Creating jobs: 3
+Jobs: 3
+Wealth inequality: 3
+Immigration: 2
+Taxes: 3
+The environment: 6
+Healthcare: 2
+Increase military spending: 3
+Education: 2
+Energy independence: 4
+
+Alaska
+Votes: 3 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+Kentucky
+Votes: 8 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: -1
+
+Hawaii
+Votes: 4 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 1
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+Nebraska
+Votes: 5 
+Creating jobs: 0
+Jobs: 1
+Wealth inequality: 0
+Immigration: 0
+Taxes: 0
+The environment: 1
+Healthcare: 0
+Increase military spending: 1
+Education: 0
+Energy independence: 2
+
+Missouri
+Votes: 9 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 2
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: -1
+
+Iowa
+Votes: 5 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 1
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 1
+Energy independence: 3
+
+Alabama
+Votes: 9 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 2
+The environment: 0
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 0
+
+Rhode Island
+Votes: 4 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 1
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+South Dakota
+Votes: 3 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+Colorado
+Votes: 9 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 0
+
+Washington, D.C.
+Votes: 3 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 0
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 0
+Education: 0
+Energy independence: 3
+
+New Jersey
+Votes: 13 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 2
+The environment: 1
+Healthcare: 1
+Increase military spending: 1
+Education: 1
+Energy independence: 3
+
+Washington
+Votes: 13 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 1
+Healthcare: 1
+Increase military spending: 2
+Education: 2
+Energy independence: 2
+
+North Carolina
+Votes: 15 
+Creating jobs: 1
+Jobs: 1
+Wealth inequality: 2
+Immigration: 2
+Taxes: 2
+The environment: 1
+Healthcare: 1
+Increase military spending: 2
+Education: 2
+Energy independence: 1
+
+New York
+Votes: 27 
+Creating jobs: 3
+Jobs: 4
+Wealth inequality: 3
+Immigration: 2
+Taxes: 2
+The environment: 3
+Healthcare: 2
+Increase military spending: 2
+Education: 2
+Energy independence: 4
+
+Nevada
+Votes: 7 
+Creating jobs: 0
+Jobs: 1
+Wealth inequality: 1
+Immigration: 1
+Taxes: 1
+The environment: 0
+Healthcare: 0
+Increase military spending: 1
+Education: 1
+Energy independence: 1
+
+Maine
+Votes: 4 
+Creating jobs: 0
+Jobs: 0
+Wealth inequality: 1
+Immigration: 0
+Taxes: 0
+The environment: 0
+Healthcare: 0
+Increase military spending: 1
+Education: 0
+Energy independence: 2
