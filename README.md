@@ -1,0 +1,2 @@
+# codeeval
+The code here was not written for clarity.  Documentation is scarce because comments figure into your runtime score on an interpreted language.  I purged important exceptions for a marginally better score and was not careful to keep them after successful submission.  I was not intending to read the code I had written again, though I did wind up grepping them for common patterns I found in later challenges.
